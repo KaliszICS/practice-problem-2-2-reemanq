@@ -1,7 +1,7 @@
 
 
 def q1(): 
-  d = int(input("Input an integer: ")
+  d = int(input("Input an integer: "))
   if d == 5:
           print("The number is Five")
   else:
@@ -10,7 +10,7 @@ def q1():
 
 
 def q2(): 
-  e = num(input("Input a number: ")
+  e = num(input("Input a number: "))
   if e > 0:
           print("Positive")
   else:
